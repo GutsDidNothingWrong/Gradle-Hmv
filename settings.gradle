@@ -1,0 +1,5 @@
+rootProject.name = 'Gradle-Hmv'
+
+include 'db'
+include 'service'
+include 'api'
